@@ -1,0 +1,6 @@
+{
+  "name": "VitaAçaí - Cardápio Digital & Pedidos",
+  "description": "Cardápio digital moderno e interativo da VitaAçaí. Monte seu açaí do seu jeito e envie seu pedido diretamente pelo WhatsApp!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
